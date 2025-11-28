@@ -26,4 +26,7 @@ Unlike standard OLS regression, this model provides a "Strategy Engine" that aut
 1. Install dependencies:
    `pip install -r requirements.txt`
 2. Run the script:
+
    `python main.py`
+### 📊 Project Results
+![Dashboard Analysis](dashboard_results.png)
