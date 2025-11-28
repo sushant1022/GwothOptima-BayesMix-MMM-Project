@@ -1,0 +1,6 @@
+pymc>=5.0.0
+arviz>=0.14.0
+pandas
+numpy
+matplotlib
+seaborn
